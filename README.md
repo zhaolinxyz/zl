@@ -72,7 +72,3 @@ Add this script to the **Startup Applications** and everything is okay now!
 ## 6.Contributors
 
 BINYAN HU, CHENGHAO SU, BOWEN SUN, HANG ZHOU, SHU SHI, JIHAN ZHANG, YIRAN FANG.
-# 2020code
-# 2020code
-# 2020code
-# 2020code

@@ -68,5 +68,5 @@ SOURCES += \
 #    Main/test_rune.cpp \
 #    Main/test_armor_solver_serial.cpp
 #     Main/test_recording_video.cpp
-    Main/test_sentry.cpp
+    Main/test_infantry.cpp
 
